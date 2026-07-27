@@ -15,6 +15,7 @@
 ## Справочники
 
 - [Антенны, зеркала и тракт под HI](reference/antennas.md)
+- [Радиоизображения: получение и обработка](reference/radio-imaging.md)
 - [Закупки в РФ](reference/buying-russia.md)
 
 Главная страница: [README](../README.md)

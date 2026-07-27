@@ -1,0 +1,6 @@
+.obsidian/
+*.tmp
+_convert_math.py
+_fix_math.py
+.DS_Store
+Thumbs.db
